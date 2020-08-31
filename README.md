@@ -3,7 +3,7 @@
 Este proyecto se trata de una botonera con cambio secuencial y freno de mano conectado todo a una placa Arduino Pro Micro ATmega32u4.
 Esta especialmente diseñado para usar en simuladores de conducción (testeado en Assetto Corsa e iRacing).
 
-![]()
+![](https://github.com/MrPointcut95/ArduinoSimBox/blob/master/Images/1.png)
 
 ## Hardware
 
@@ -22,7 +22,7 @@ Esta especialmente diseñado para usar en simuladores de conducción (testeado e
 
 ## Wiring Diagram
 
-![]()
+![](https://github.com/MrPointcut95/ArduinoSimBox/blob/master/Diagrams/Wiring.png)
 
 
 ## 3D models 
