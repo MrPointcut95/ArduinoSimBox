@@ -1,7 +1,7 @@
 # ArduinoSimBox
 
-Este proyecto se trata de una botonera con cambio secuencial y freno de mano conectado todo a una placa Arduino Pro Micro ATmega32u4.
-Esta especialmente diseñado para usar en simuladores de conducción (testeado en Assetto Corsa e iRacing).
+This project is about a button box with sequential shifter and handbrake, connected to an Arduino Pro Micro ATmega32u4 board.
+It is specially designed for use in simracing (tested on Assetto Corsa and iRacing).
 
 ![](https://github.com/MrPointcut95/ArduinoSimBox/blob/master/Images/1.png)
 
@@ -26,7 +26,9 @@ Esta especialmente diseñado para usar en simuladores de conducción (testeado e
 
 
 ## 3D models 
-[Link](https://www.thingiverse.com/thing:4584873)
+- Button box [Link](https://www.thingiverse.com/thing:4584873)
+- Adapted from Shifter [Link](https://www.thingiverse.com/thing:2924658)
+- Handbrake [Link] (https://www.tinkercad.com/things/k4PGvxEYYVc) (Based on [Link](https://www.tinkercad.com/things/e0aZ4ehOGfT-handbrake-for-gaming) )
 
 
 
