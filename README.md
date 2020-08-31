@@ -28,7 +28,7 @@ It is specially designed for use in simracing (tested on Assetto Corsa and iRaci
 ## 3D models 
 - Button box [Link](https://www.thingiverse.com/thing:4584873)
 - Adapted from Shifter [Link](https://www.thingiverse.com/thing:2924658)
-- Handbrake [Link] (https://www.tinkercad.com/things/k4PGvxEYYVc) (Based on [Link](https://www.tinkercad.com/things/e0aZ4ehOGfT-handbrake-for-gaming) )
+- Handbrake [Link](https://www.tinkercad.com/things/k4PGvxEYYVc) (Based on [Link](https://www.tinkercad.com/things/e0aZ4ehOGfT-handbrake-for-gaming) )
 
 
 
